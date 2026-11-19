@@ -56,7 +56,7 @@ Goal: Become a better developer
 
 ## 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [jaetdog-rgb](https://github.com/jeatdog-rgb)
 
 ---
 
